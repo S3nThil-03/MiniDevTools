@@ -8,4 +8,6 @@
 
 🐍 **Snake Game:** A fun and challenging arcade game where you control a snake to eat food, grow in size, and avoid hitting your own tail. 
 
-🎮 **2048 Game:** A fun puzzle game where you combine tiles to reach 2048!
+🎮 **2048 Game:** A fun puzzle game where you combine tiles to reach 2048.
+
+🪐 **Solar System Explorer:** Explore planets, moons, and cosmic wonders in a stellar adventure.
