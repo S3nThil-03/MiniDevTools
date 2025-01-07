@@ -11,3 +11,5 @@
 🎮 **2048 Game:** A fun puzzle game where you combine tiles to reach 2048.
 
 🪐 **Solar System Explorer:** Explore planets, moons, and cosmic wonders in a stellar adventure.
+
+🏃‍♂️ **Stick Hero Game:** symbolizes running and the dynamic, action-oriented gameplay of a stick figure hero game.
