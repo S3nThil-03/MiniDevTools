@@ -24,7 +24,7 @@ Each project includes:
 Interactive Interface: Engage directly with the tool/game.
 Simple Controls: Intuitive and user-friendly design.
 
-Here’s how each project works:
+<h2>Here’s how each project works:</h2>
 
 **🔍 GitHub Profile Search**
 Enter a GitHub username and fetch profile details instantly.
