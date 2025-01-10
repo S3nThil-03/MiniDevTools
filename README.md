@@ -13,3 +13,5 @@
 🪐 **Solar System Explorer:** Explore planets, moons, and cosmic wonders in a stellar adventure.
 
 🏃‍♂️ **Stick Hero Game:** symbolizes running and the dynamic, action-oriented gameplay of a stick figure hero game.
+
+🌑 **Shadow Run:** Dash through a thrilling shadowy realm, dodging obstacles and collecting rewards!
