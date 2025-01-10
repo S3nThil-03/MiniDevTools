@@ -1,5 +1,5 @@
-Project Collection
-A collection of interactive tools and games built with HTML, CSS, and JavaScript.
+<h1> Project Collection </h1>
+<h2>A collection of interactive tools and games built with HTML, CSS, and JavaScript.</h2>
 
 How to Use
 1. Prerequisites
@@ -17,6 +17,7 @@ bash
 Copy code
 cd project-name  
 Open the index.html file in your browser.
+
 3. User Guide
 Each project includes:
 
@@ -24,28 +25,28 @@ Interactive Interface: Engage directly with the tool/game.
 Simple Controls: Intuitive and user-friendly design.
 Here’s how each project works:
 
-🔍 GitHub Profile Search
+**🔍 GitHub Profile Search**
 Enter a GitHub username and fetch profile details instantly.
-🧮 Age Calculator
+**🧮 Age Calculator**
 Input your date of birth and calculate your age in years, months, and days.
-🔑 Password Generator
+**🔑 Password Generator**
 Generate a strong password by selecting options for length and character types.
-🎨 Hex Color Generator
+**🎨 Hex Color Generator**
 Click to generate random or custom hex color codes for your designs.
-🐍 Snake Game
+**🐍 Snake Game**
 Use arrow keys to control the snake. Eat food, grow larger, and avoid crashing!
-🎮 2048 Game
+**🎮 2048 Game**
 Use arrow keys to slide and combine tiles until you reach 2048.
-🪐 Solar System Explorer
-Explore information about planets, moons, and stars with simple navigation.
-🏃‍♂️ Stick Hero Game
-Stretch the stick to cross platforms. Be careful not to fall!
-🌑 Shadow Run
+**🪐 Solar System Explorer**
+Explore information about planets, moons, and stars with simple navigation.**
+🏃‍♂️ Stick Hero Game**
+Stretch the stick to cross platforms. Be careful not to fall!**
+🌑 Shadow Run**
 Dodge obstacles and collect rewards in an endless runner game.
 Updates and Enhancements
 Stay tuned for feature updates and new projects.
 Feedback and suggestions are welcome! Open an issue or drop a comment in the repository.
-Support
+**Support**
 If you face any issues, feel free to contact me or open a GitHub issue.
 
 Let me know if you'd like this refined further! 🚀
