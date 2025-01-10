@@ -59,7 +59,6 @@ Feedback and suggestions are welcome! Open an issue or drop a comment in the rep
 
 <h2>Support</h2><br>
 If you face any issues, feel free to contact me or open a GitHub issue.
-
 Let me know if you'd like this refined further! 🚀
 
 
