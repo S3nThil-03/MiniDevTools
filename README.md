@@ -26,7 +26,7 @@ Simple Controls: Intuitive and user-friendly design.
 
 Here’s how each project works:
 
-**🔍 GitHub Profile Search**<br>
+**🔍 GitHub Profile Search**
 Enter a GitHub username and fetch profile details instantly.
 
 **🧮 Age Calculator**
@@ -56,7 +56,8 @@ Dodge obstacles and collect rewards in an endless runner game.
 **Updates and Enhancements**
 Stay tuned for feature updates and new projects.
 Feedback and suggestions are welcome! Open an issue or drop a comment in the repository.
-**Support**
+
+**Support**<br>
 If you face any issues, feel free to contact me or open a GitHub issue.
 
 Let me know if you'd like this refined further! 🚀
