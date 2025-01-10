@@ -53,11 +53,11 @@ Stretch the stick to cross platforms. Be careful not to fall!
 **🌑 Shadow Run**
 Dodge obstacles and collect rewards in an endless runner game.
 
-<h2>**Updates and Enhancements**</h2><br>
+<h2>Updates and Enhancements</h2><br>
 Stay tuned for feature updates and new projects.
 Feedback and suggestions are welcome! Open an issue or drop a comment in the repository.
 
-<h2>**Support**</h2><br>
+<h2>Support</h2><br>
 If you face any issues, feel free to contact me or open a GitHub issue.
 
 Let me know if you'd like this refined further! 🚀
