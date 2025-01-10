@@ -23,27 +23,37 @@ Each project includes:
 
 Interactive Interface: Engage directly with the tool/game.
 Simple Controls: Intuitive and user-friendly design.
+
 Here’s how each project works:
 
-**🔍 GitHub Profile Search**
+**🔍 GitHub Profile Search**<br>
 Enter a GitHub username and fetch profile details instantly.
+
 **🧮 Age Calculator**
 Input your date of birth and calculate your age in years, months, and days.
+
 **🔑 Password Generator**
 Generate a strong password by selecting options for length and character types.
+
 **🎨 Hex Color Generator**
 Click to generate random or custom hex color codes for your designs.
+
 **🐍 Snake Game**
 Use arrow keys to control the snake. Eat food, grow larger, and avoid crashing!
+
 **🎮 2048 Game**
 Use arrow keys to slide and combine tiles until you reach 2048.
+
 **🪐 Solar System Explorer**
-Explore information about planets, moons, and stars with simple navigation.**
-🏃‍♂️ Stick Hero Game**
-Stretch the stick to cross platforms. Be careful not to fall!**
-🌑 Shadow Run**
+Explore information about planets, moons, and stars with simple navigation.
+
+**🏃‍♂️ Stick Hero Game**
+Stretch the stick to cross platforms. Be careful not to fall!
+
+**🌑 Shadow Run**
 Dodge obstacles and collect rewards in an endless runner game.
-Updates and Enhancements
+
+**Updates and Enhancements**
 Stay tuned for feature updates and new projects.
 Feedback and suggestions are welcome! Open an issue or drop a comment in the repository.
 **Support**
